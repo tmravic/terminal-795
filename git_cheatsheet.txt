@@ -1,0 +1,10 @@
+git init
+-> starts a git repo
+
+
+git status
+-> check if clean/dirty
+
+# make a commit
+git add filename filename filename
+
