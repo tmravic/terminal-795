@@ -9,4 +9,5 @@ ls /ll
 cd folder_name
 -> moves into a folder
 
-
+cat filename
+-> display file in the Terminal
