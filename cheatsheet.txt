@@ -1,0 +1,12 @@
+Basic Terminal Cheatsheet
+
+pwd
+-> shows where you are
+
+ls /ll
+-> shows the content of the folder you're in
+
+cd folder_name
+-> moves into a folder
+
+
